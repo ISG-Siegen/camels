@@ -1,0 +1,9 @@
+[submodule "camels/data_loader"]
+	path = camels/data_loader
+	url = https://github.com/ISG-Siegen/recsys-dataloader.git
+[submodule "camels/client"]
+	path = camels/client
+	url = https://github.com/ISG-Siegen/camels-client.git
+[submodule "camels/server"]
+	path = camels/server
+	url = https://github.com/ISG-Siegen/camels-server.git
